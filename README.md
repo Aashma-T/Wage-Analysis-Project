@@ -21,6 +21,7 @@ This project investigates wage disparities among Veterans and Disabled individua
 -Veterans on active duty earn approximately $15,810 less than non-veterans.
 -Disabled individuals experience a wage penalty of about $19,899.
 -Higher education significantly improves wages, with a 44.6% wage increase for those with more than a high school diploma.
+
 ## Requiremnents
 install.packages(c("tidyverse", "lmtest", "broom", "car", "ggplot2"))
 
