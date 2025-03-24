@@ -25,5 +25,3 @@ This project investigates wage disparities among Veterans and Disabled individua
 ## Requiremnents
 install.packages(c("tidyverse", "lmtest", "broom", "car", "ggplot2"))
 
-
-
